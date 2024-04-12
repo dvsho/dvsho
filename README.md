@@ -1,8 +1,7 @@
 ### Hi! 你好！
 
-🧠 I'm a computer science student at the University of Southern California.
-👀 Check out my new [personal website](https://sihan.me)!
-
+🧠 I'm a computer science student at the University of Southern California.\n
+👀 Check out my new [personal website](https://sihan.me)!\n
 🍳 I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).
 
 ![funny_raccoon](https://imgix.ranker.com/list_img_v2/4975/2584975/original/funny-raccoon-names?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720)
