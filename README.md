@@ -2,7 +2,7 @@
 
 🧠 I'm a computer science student at the University of Southern California.  
 👀 Check out my new [personal website](https://sihan.me)!  
-🍳 I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).  
+🍳 I also love cooking! Take a look at what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).  
   
 ⬅️ that's my sim lol
 <!--
