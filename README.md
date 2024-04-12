@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+I'm a computer science student at USC.
+
+I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here](https://vsco.co/dvsnho).
 
 <!--
 **dvsho/dvsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
