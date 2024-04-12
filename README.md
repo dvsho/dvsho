@@ -1,14 +1,11 @@
 ### Hi! 你好！
 
-I'm a computer science student at USC.
+🧠 I'm a computer science student at the University of Southern California.
+👀 Check out my new [personal website](https://sihan.me)!
 
-Check out my new [personal website](https://sihan.me)!
+🍳 I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).
 
-I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).
-
-![funny_raccoon](https://i.pinimg.com/736x/b3/2e/e6/b32ee6cbba8b3cacfd640e390a649e8d.jpg)
-
-(Raccoons are my favorite animal)
+![funny_raccoon](https://imgix.ranker.com/list_img_v2/4975/2584975/original/funny-raccoon-names?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720)
 
 <!--
 **dvsho/dvsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
