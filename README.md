@@ -4,7 +4,7 @@
 👀 Check out my new [personal website](https://sihan.me)!  
 🍳 I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).  
 
-![funny_raccoon](https://imgix.ranker.com/list_img_v2/4975/2584975/original/funny-raccoon-names?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720)
+![funny_raccoon](https://i.ytimg.com/vi/IRdivT8pcl4/maxresdefault.jpg)
 
 <!--
 **dvsho/dvsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
