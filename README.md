@@ -3,6 +3,8 @@
 🧠 I'm a computer science student at the University of Southern California.  
 👀 Check out my new [personal website](https://sihan.me)!  
 🍳 I also love cooking! Check out what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).  
+  
+⬅️ that's my sim lol
 
 ![funny_raccoon](https://i.ytimg.com/vi/IRdivT8pcl4/maxresdefault.jpg)
 
