@@ -1,9 +1,6 @@
 ### Hi! 你好！
 
-🧠 I'm a computer science student at the University of Southern California.  
-👀 Personal website in progress...
-<!--👀 Check out my new [personal website](https://sihan.me)!  -->
-🍳 I also love cooking! Take a look at what I've made [here](https://instagram.com/thecalecafe)... and [here too](https://vsco.co/dvsnho).  
+🧠 I'm a computer science student at the University of Southern California.
 
 <!--
 ![funny_raccoon](https://i.ytimg.com/vi/IRdivT8pcl4/maxresdefault.jpg)
